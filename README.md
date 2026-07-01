@@ -12,8 +12,8 @@ Não coloque neste repositório banco de dados, sessão Telegram, API HASH ou ar
 
 ## Versão Atual
 
-- Versão: 1.2.1
+- Versão: 1.3.0
 - Canal: stable
-- Instalador esperado: `CICLOPE_Setup_1.2.1.exe`
+- Instalador esperado: `CICLOPE_Setup_1.3.0.exe`
 
-O instalador deve ser anexado em uma Release com a tag `v1.2.1`.
+O instalador deve ser anexado em uma Release com a tag `v1.3.0`.
