@@ -1,19 +1,19 @@
 # CICLOPE Releases
 
-Este repositório público guarda apenas arquivos de distribuição do CICLOPE.
+Este repositorio publico guarda apenas arquivos de distribuicao do CICLOPE.
 
-O código-fonte principal fica em repositório privado. Aqui entram somente:
+O codigo-fonte principal fica em repositorio privado. Aqui entram somente:
 
 - `version.json`: manifesto consultado pelo aplicativo instalado;
 - instaladores anexados em GitHub Releases;
-- notas públicas de versão.
+- notas publicas de versao.
 
-Não coloque neste repositório banco de dados, sessão Telegram, API HASH ou arquivos privados.
+Nao coloque neste repositorio banco de dados, sessao Telegram, API HASH ou arquivos privados.
 
-## Versão Atual
+## Versao Atual
 
-- Versão: 1.3.0
+- Versao: 1.4.2
 - Canal: stable
-- Instalador esperado: `CICLOPE_Setup_1.3.0.exe`
+- Instalador esperado: `CICLOPE_Setup_1.4.2.exe`
 
-O instalador deve ser anexado em uma Release com a tag `v1.3.0`.
+O instalador deve ser anexado em uma Release com a tag `v1.4.2`.
