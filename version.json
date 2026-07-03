@@ -1,16 +1,16 @@
 {
   "app": "CICLOPE",
-  "version": "1.3.0",
-  "updated_at": "01/07/2026 00:29",
+  "version": "1.4.2",
+  "updated_at": "03/07/2026 04:20",
   "channel": "stable",
   "minimum_supported_version": "1.2",
-  "installer_file": "CICLOPE_Setup_1.3.0.exe",
-  "download_url": "https://github.com/gptcontabilunip-cpu/Ciclope-Releases/releases/download/v1.3.0/CICLOPE_Setup_1.3.0.exe",
+  "installer_file": "CICLOPE_Setup_1.4.2.exe",
+  "download_url": "https://github.com/gptcontabilunip-cpu/Ciclope-Releases/releases/download/v1.4.2/CICLOPE_Setup_1.4.2.exe",
   "notes": [
-    "Nova aba Busca externa para consultar Google Shopping, Zoom e Bondfaro.",
-    "Busca manual de um ou vários produtos com os filtros do produto aplicados.",
-    "Busca automática leve a cada 12 horas por produto ativo.",
-    "Comparativo entre preço externo, menor preço do Telegram e preço máximo aceitável.",
-    "Histórico local separado para resultados externos."
+    "Ajuste visual no grafico da aba Produtos para afastar o rotulo Preco dos valores em R$.",
+    "Melhoria da coluna Origem no Historico para diferenciar Telegram e resultados externos.",
+    "Melhoria visual no menu de colunas das tabelas.",
+    "Grafico de Produtos com fundo interno, linhas horizontais percentuais e rotulos Preco/Tempo.",
+    "Revisao segura com otimizacao de estatisticas da tabela Produtos."
   ]
 }
