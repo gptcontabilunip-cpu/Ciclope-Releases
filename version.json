@@ -5,7 +5,7 @@
   "channel": "stable",
   "minimum_supported_version": "1.2",
   "installer_file": "CICLOPE_Setup_1.4.2.exe",
-  "download_url": "https://github.com/gptcontabilunip-cpu/Ciclope-Releases/releases/download/v1.4.2/CICLOPE_Setup_1.4.2.exe",
+  "download_url": "https://github.com/TimeBanditGoiano/Ciclope-Releases/releases/download/v1.4.2/CICLOPE_Setup_1.4.2.exe",
   "notes": [
     "Ajuste visual no grafico da aba Produtos para afastar o rotulo Preco dos valores em R$.",
     "Melhoria da coluna Origem no Historico para diferenciar Telegram e resultados externos.",
